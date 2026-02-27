@@ -1,4 +1,4 @@
-# 🏆 GitHub Achievements Guide
+# 🏆 GitHub Achievements Guide 2026
 
 This guide explains how to unlock various GitHub profile badges (Achievements) through simple, step-by-step technical actions.
 
