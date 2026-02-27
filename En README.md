@@ -88,5 +88,3 @@ This guide explains how to unlock various GitHub profile badges (Achievements) t
 - **Sync Time:** Achievements may take **24 to 48 hours** to appear on your profile after completing the requirements.
 - **Visibility:** Ensure your achievements are set to "Public" in your settings (Settings -> Public profile -> Show Achievements).
 
----
-**Created based on the GitHub Achievements Tutorial.**
