@@ -87,4 +87,3 @@
 - تأكد من أن إعدادات ملفك الشخصي تسمح بظهور الأوسمة (Settings -> Public profile -> Show Achievements).
 
 ---
-**تم إعداد هذا الملف بناءً على شروحات فيديو GitHub Achievements.**
